@@ -21,7 +21,7 @@ The dataset is intended for research on **aggregate tactical patterns**, not ind
 
 The curated dataset files are hosted externally due to size and licensing constraints.
 
-**Dataset download:** `[ADD_GOOGLE_DRIVE_OR_INSTITUTIONAL_LINK_HERE]`
+**Dataset download:** `[https://drive.google.com/file/d/1OaXGBKboqjjrnnfuT0H7SeToddlY7xi5/view?usp=sharing]`
 
 After downloading, the expected local structure is:
 
